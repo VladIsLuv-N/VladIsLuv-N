@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vlad</h1>
-<h3 align="center">Flutter Devoloper!</h3>
+<h3 align="center">Flutter Devoloper</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/?size=50&id=7I3BjCqe9rjG&format=png&color=000000">
